@@ -1,0 +1,15 @@
+#heading{
+    font-size: 20px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+    text-align: center;
+  }
+  #camera , #result
+{
+  border: 2px dashed black;
+  width: 350px;
+  height: 300px; 
+}
+body{
+    background-color: gold;
+}
